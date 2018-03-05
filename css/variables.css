@@ -1,0 +1,27 @@
+:root {
+    /* colors --------- */
+    --color-orange: rgba(238, 153, 0, 1);
+    --color-green: rgba(187, 204, 0, 1);
+    --color-fuchsia: rgba(204, 0, 119, 1);
+    --color-blue: rgba(0, 170, 204, 1);
+
+    --color-white: rgba(255, 255, 255, 1);
+    --color-light-grey: rgba(221, 221, 221, 1);
+    --color-mid-grey: rgba(170, 170, 170, 1);
+    --color-dark-grey: rgba(119, 119, 119, 1);
+    --color-black: rgba(0, 0, 0, 1);
+
+    --color-grey-1: rgba(190,185,180,1);
+    --color-grey-2: rgba(120,120,110,1);
+    --color-grey-3: rgba(100,95,90,1);
+    --color-grey-4: rgba(40,40,37,1);
+    --color-orange: rgba(225,80,15,1);
+
+    /* fonts --------- */
+    --font-family-body: 'Zilla Slab', serif;
+    --font-family-headings: 'Raleway', sans-serif;
+    --font-family-jumbo: 'Yellowtail', cursive;
+
+    /* layout --------- */
+    --grid-gutter: 24px;
+}
