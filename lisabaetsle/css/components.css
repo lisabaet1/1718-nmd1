@@ -35,6 +35,7 @@ Jumbotron component (voor de durvers)
 .jumbotron img {
     width: 100%;
     height: auto;
+    filter: greyscale(100%);
     }
  
 .jumbotron_txt p {
